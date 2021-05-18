@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InterviewMvpProject</string>
+
+    <string name="search_bar_hint">Write Place Name </string>
+
+    <string name="client_id"></string>
+    <string name="client_secret"></string>
+</resources>
